@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/row_item"
+          style="@style/TextAppearance.AppCompat.Body1"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:orientation="vertical"
+          android:paddingBottom="10dp"
+          android:paddingEnd="5dp"
+          android:gravity="start|center_vertical"
+          android:text="No Event"
+          android:paddingStart="5dp"
+          android:paddingTop="10dp"/>
+
+
